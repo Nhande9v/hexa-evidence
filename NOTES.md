@@ -82,3 +82,5 @@ Will be recorded here after first Lambda invocation.
 
 ---
 **Status**: Ready for local testing and Lambda deployment
+<img width="1918" height="892" alt="image" src="https://github.com/user-attachments/assets/01ea6da4-ff99-4d8a-a8af-dba71ab340d7" />
+
